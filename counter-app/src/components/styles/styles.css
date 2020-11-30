@@ -1,0 +1,28 @@
+
+/* Display Counter */
+.display {
+    margin: 10px;
+}
+
+/* Increment/Decrement Counter */
+.increment {
+    margin: 10px;
+
+}
+
+.increment button {
+    margin: 10px;
+    background-color: gray;
+    color: white;
+}
+
+/* Add/Subtract Counter */
+.add {
+    margin: 10px;
+}
+
+.add button {
+    margin: 10px;
+    background-color: gray;
+    color: white;
+}
